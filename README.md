@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Rafael Mori 👋
 
-- 🔭 Hoje trabalho com desenvolvimento de jogos
+- 🔭 Ex-desenvolvedor de jogos nos Estudios DILUI
 
 - 😄 Pronomes: ele/dele
 
