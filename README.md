@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rafael Mori 👋
 - 😀 Sobre: Sempre fui um grande entusiasta de tecnologia e uma pessoa muito curiosa. Tenho muita vontade de aprender coisas novas. 
 - 📚 Estudante de Ciência da Computação na Universidade Federal da UFABC
-- 🔭 Ex-desenvolvedor de jogos nos Estudios DILUI
+- 🔭 Analista de desenvolvimento junior na Argo Solutions
 - 😄 Pronomes: ele/dele
 
 <div>
